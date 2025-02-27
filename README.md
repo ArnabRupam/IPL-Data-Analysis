@@ -16,4 +16,3 @@ Skills Applied: Data Visualization, Business Intelligence, Data Analysis
 ## 🔗 Tableaue Link:
 https://shorturl.at/8luRt
 
-#DataAnalytics #Tableau #IPLAnalysis #CricketAnalytics #DataVisualization
