@@ -13,6 +13,7 @@ Data Source: Kaggle (IPL Dataset)
 Tools: Tableau, SQL
 Skills Applied: Data Visualization, Business Intelligence, Data Analysis
 
-## 🔗 https://shorturl.at/8luRt
+## 🔗 Tableaue Link:
+https://shorturl.at/8luRt
 
 #DataAnalytics #Tableau #IPLAnalysis #CricketAnalytics #DataVisualization
