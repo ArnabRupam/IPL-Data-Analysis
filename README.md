@@ -13,6 +13,8 @@ Data Source: Kaggle (IPL Dataset) <br>
 Tools: Tableau, SQL <br>
 Skills Applied: Data Visualization, Business Intelligence, Data Analysis 
 
-## 🔗 Tableaue Link:
-https://shorturl.at/8luRt
+## 🔗 Links:
+Dataset Link: https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020 <br>
+Tableaue Link: https://shorturl.at/8luRt
+
 
